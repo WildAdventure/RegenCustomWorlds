@@ -1,0 +1,6 @@
+name: RegenCustomWorlds
+main: com.gmail.filoghost.regencustomworlds.RegenCustomWorlds
+version: 1.0
+load: STARTUP
+
+depend: [WildCommons]
